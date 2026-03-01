@@ -1,5 +1,7 @@
 # viper.nvim
 
+![viper-nvim-example](viper-nvim-example.png)
+
 viper.nvim is a simple plugin that adds basic highlighting capabilities to NeoVim for the
 verification language [Viper](https://github.com/viperproject).
 
